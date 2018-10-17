@@ -1,0 +1,105 @@
+37
+Vancouver
+Calgary
+Winnipeg
+SaultSaintMarie
+Toronto
+Montreal
+Boston
+Seattle
+Helena
+Omaha
+Duluth
+Chicago
+Pittsburgh
+Washington
+NewYork
+Portland
+SanFrancisco
+LosAngeles
+LasVegas
+SaltLakeCity
+Denver
+Phoenix
+KansasCity
+OklahomaCity
+SaintLouis
+Nashville
+Washington
+Raleigh
+Atlanta
+Charleston
+Miami
+NewOrleans
+Houston
+Dallas
+ElPaso
+SantaFe
+LittleRock
+Vancouver Calgary 660
+Vancouver Seattle 143
+Calgary Winnipeg 829
+Calgary Helena 406
+Calgary Seattle 677
+Winnipeg Helena 975
+Winnipeg Duluth 379
+Winnipeg SaultSaintMarie 796
+SaultSaintMarie Duluth 420
+SaultSaintMarie Toronto 435
+SaultSaintMarie Montreal 618
+Toronto Montreal 338
+Toronto Pittsburgh 224
+Montreal Boston 251
+Montreal NewYork 376
+Seattle Helena 589
+Seattle Portland 173
+Helena Duluth 1050
+Helena SaltLakeCity 483
+Helena Denver 791
+Helena Omaha 1079
+Duluth Omaha 533
+Duluth Chicago 469
+Chicago Pittsburgh 462
+Chicago SaintLouis 300
+Chicago Omaha 468
+Pittsburgh NewYork 371
+Pittsburgh Washington 245
+NewYork Washington 204
+NewYork Boston 190
+Portland SanFrancisco 636
+Portland SaltLakeCity 766
+SanFrancisco SaltLakeCity 736
+SanFrancisco LosAngeles 347
+LosAngeles LasVegas 263
+LosAngeles Phoenix 357
+SaltLakeCity Denver 521
+SaltLakeCity LasVegas 420
+Denver SantaFe 393
+Denver Phoenix 821
+Denver Omaha 538
+Denver KansasCity 605
+KansasCity SaintLouis 239
+KansasCity OklahomaCity 349
+SaintLouis Nashville 310
+Nashville Raleigh 539
+Nashville Atlanta 400
+Washington Raleigh 278
+Raleigh Atlanta 407
+Raleigh Charleston 280
+Atlanta Miami 663
+Atlanta NewOrleans 471
+Charleston Miami 584
+Miami NewOrleans 866
+NewOrleans LittleRock 427
+NewOrleans Houston 347
+Houston Dallas 225
+Dallas LittleRock 515
+Dallas ElPaso 571
+ElPaso LosAngeles 803
+ElPaso SantaFe 328
+Atlanta Charleston 298
+SantaFe OklahomaCity 537
+SantaFe Phoenix 480
+LittleRock Nashville 350
+LittleRock OklahomaCity 339
+LittleRock SaintLouis 348
